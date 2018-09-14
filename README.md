@@ -1,2 +1,2 @@
 # NNs
-NNs
+Perceptron
